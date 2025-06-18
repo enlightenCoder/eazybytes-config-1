@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the Accounts Service - qa environment"
+  contactDetails:
+    name: "Smith Paul- QA Lead"
+    email: "smithPaul@eazybytes"
+  onCallSupport:
+    - (555) 458-9521
+    - (555) 878-9977

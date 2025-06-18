@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the Accounts Service"
+  contactDetails:
+    name: "John Doe- Developer"
+    email: "tutor@eazybytes"
+  onCallSupport:
+    - (555) 123-4567
+    - (555) 987-6543
+

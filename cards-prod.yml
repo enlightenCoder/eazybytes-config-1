@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to the Cards Service - Prod environment"
+  contactDetails:
+    name: "Harry Peal - Production Lead"
+    email: "hp@eazybytes"
+  onCallSupport:
+    - (555) 872-4567
+    - (555) 975-6743

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to the Accounts Service - prod environment"
+  contactDetails:
+    name: "Christopher Ami- prod manager"
+    email: "chrami@eazybytes"
+  onCallSupport:
+    - (555) 458-9521
+    - (555) 875-9977

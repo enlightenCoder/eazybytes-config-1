@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to the Cards Service - Dev environment"
+  contactDetails:
+    name: "Christopher Ami- Dev Lead"
+    email: "ca@eazybytes"
+  onCallSupport:
+    - (555) 654-4567
+    - (555) 514-1122
