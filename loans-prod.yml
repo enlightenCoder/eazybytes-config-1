@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to the Loans Service - prod environment"
+  message: "Welcome to the Loans Service - production environment"
   contactDetails:
     name: "Paul Lee - Production Lead"
     email: "pl@eazybytes"
