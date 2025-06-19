@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the Accounts Service - related to Production APIs..."
+  message: "Welcome to the Accounts Service - related to Prod APIs"
   contactDetails:
     name: "Christopher Ami- prod manager"
     email: "{cipher}d19b76d826596c8223a32e0c73967aa45a6b2b76da553a71e853fa7c809d4bb6909123af8e48e05c6e8440b9aca83fbe"
