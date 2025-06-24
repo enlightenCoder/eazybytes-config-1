@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Accounts Service...78845"
+  message: "Welcome to the Accounts Service"
   contactDetails:
     name: "John Doe- Developer"
     email: "tutor@eazybytes"
